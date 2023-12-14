@@ -4,7 +4,7 @@
   Ex. input: '13' -> output: '4'
       input: '99' -> output: '18'
 
-  Author: Florian Baierl
+  Author: Olutunmibi Iseoluwa
 ]
 
 initialize #0 with 48 (ASCII char for '0')
